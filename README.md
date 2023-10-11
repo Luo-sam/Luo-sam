@@ -19,15 +19,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight" alt="languages.indepth" />
 </div>
 
-
-<div></div>
-  
-  # 那就简单自我介绍一下吧
+# 那就简单自我介绍一下吧
+<div align="center">
 <table>
 <tr><td>
 <!-- About me 关于我 -->  
 <p>&emsp;&emsp;工作上朋友们都叫我Sam，当然我更喜欢被叫做靓仔</p>
 <p>&emsp;&emsp;喜欢八卦，小说，混迹在小说作者群里的无作品者...</p>
-<p>&emsp;&emsp;我本质上是个不爱走动的人，但是为了我的长命百岁计划，有空的时候我会选择去外面闲逛...&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+<p>&emsp;&emsp;我本质上是个不爱走动的人，但是为了我的长命百岁计划，有空的时候我会选择去外面闲逛...&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 <p>&emsp;&emsp;简称街（gai）遛子</p>
-</td></tr>
+</td></tr>  
+</div>
+  
+  
