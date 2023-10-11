@@ -13,8 +13,6 @@
     <a href="https://space.bilibili.com/448488855"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/Sam_student"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/23-74-55-38"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Luo-sam&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   <img src="https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight" alt="languages.indepth" />
 </div>
